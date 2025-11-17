@@ -1,1 +1,1 @@
-# infrapane
+# InfraPane
